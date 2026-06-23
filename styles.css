@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    border: 1px solid black;
+    background-color: antiquewhite;
+}
+
+ul{
+    list-style:circle;
+}
+
+li{
+    margin:10px
+}
+
+a{
+    color: #c25757;
+    text-decoration: none;
+}
+
+a:hover{
+    color:blue;
+    text-decoration: underline;
+}
